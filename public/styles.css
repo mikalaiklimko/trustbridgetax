@@ -5,9 +5,9 @@
 @media(max-width:1050px){.header-actions{margin-left:auto}.language-switch{order:-1}}
 @media(max-width:760px){.header-actions{width:100%;justify-content:space-between}.language-switch{font-size:13px}.consultation-btn{padding:12px 14px}.brand{width:260px}}
 
-.service-bookkeeping{--hero-image:url('/hero-bookkeeping.jpg')}
-.service-payroll{--hero-image:url('/hero-payroll.jpg')}
-.service-tax-preparation{--hero-image:url('/hero-tax-preparation.jpg')}
+.service-bookkeeping{--hero-image:url('/hero-bookkeeping.png')}
+.service-payroll{--hero-image:url('/hero-payroll.png')}
+.service-tax-preparation{--hero-image:url('/hero-tax-preparation.png')}
 .home-page{--hero-image:url('/hero-home.jpg')}
 
 .contacts-page{--hero-image:url('/hero-contacts.jpg')}
