@@ -10,7 +10,7 @@
 .service-tax-preparation{--hero-image:url('/hero-tax-preparation.png')}
 .home-page{--hero-image:url('/hero-home.jpg')}
 
-.contacts-page{--hero-image:url('/hero-contacts.jpg')}
+.contacts-page{--hero-image:url('/hero-contacts.png')}
 .detail-section{grid-template-columns:1fr;gap:36px}
 .detail-section .detail-card{width:100%}
 .detail-section .side-card{width:100%;align-self:stretch;margin-top:18px}
