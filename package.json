@@ -6,17 +6,14 @@
   "scripts": {
     "start": "node server.js",
     "check": "node --check server.js",
-    "lint": "npx eslint ."    
+    "lint": "eslint ."
   },
   "dependencies": {
     "express": "^4.19.2"
   },
   "devDependencies": {
-    "nodemon": "^3.1.4",
+    "@eslint/js": "^9.0.0",
     "eslint": "^9.0.0",
-    "@eslint/js": "^9.0.0"   
-  },
-  "devDependencies": {
     "nodemon": "^3.1.4"
   }
 }
